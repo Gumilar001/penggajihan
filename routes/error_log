@@ -1,0 +1,16 @@
+[17-Mar-2023 03:18:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/intekssc/purchasing.intek-ss.co.id/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/intekssc/purchasing.intek-ss.co.id/routes/channels.php on line 16
+[17-Mar-2023 03:18:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/intekssc/purchasing.intek-ss.co.id/routes/api.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/intekssc/purchasing.intek-ss.co.id/routes/api.php on line 18
+[17-Mar-2023 03:18:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/intekssc/purchasing.intek-ss.co.id/routes/web.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/intekssc/purchasing.intek-ss.co.id/routes/web.php on line 26
+[17-Mar-2023 03:18:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/intekssc/purchasing.intek-ss.co.id/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/intekssc/purchasing.intek-ss.co.id/routes/console.php on line 17

@@ -1,0 +1,37 @@
+[
+    {
+        "Flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/euro.png",
+        "CountryName": "Euro Member",
+        "Currency": "Euro",
+        "Code": "EUR",
+        "Symbol": "€"
+    },
+    {
+        "Flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/indonesia.png",
+        "CountryName": "Indonesia",
+        "Currency": "Rupiah",
+        "Code": "IDR",
+        "Symbol": "Rp"
+    },
+    {
+        "Flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/singapore.png",
+        "CountryName": "Singapore",
+        "Currency": "Dollar",
+        "Code": "SGD",
+        "Symbol": "$"
+    },
+    {
+        "Flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/unitedkingdom.png",
+        "CountryName": "United Kingdom",
+        "Currency": "Pound",
+        "Code": "GBP",
+        "Symbol": "£"
+    },
+    {
+        "Flag": "https://www.currencyremitapp.com/wp-content/themes/currencyremitapp/images/countryimages/unitedstates.png",
+        "CountryName": "United States",
+        "Currency": "Dollar",
+        "Code": "USD",
+        "Symbol": "$"
+    }
+]

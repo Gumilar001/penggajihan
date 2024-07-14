@@ -1,0 +1,4 @@
+[17-Mar-2023 03:18:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/intekssc/purchasing.intek-ss.co.id/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/intekssc/purchasing.intek-ss.co.id/bootstrap/app.php on line 14
